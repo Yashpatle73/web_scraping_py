@@ -1,5 +1,9 @@
 # web_scraping_py
-web scraping in python
+IMDB & COVID data scraping using BeautifulSoup in python
 
+IMPORTING MODULE:
 
+pip install BeautifulSouap
+from bs4 import BeautifulSouap
+import requests
 
