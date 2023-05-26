@@ -1,4 +1,4 @@
-# web_scraping_py
+# ImDB & covid data scraping
 IMDB & COVID data scraping using BeautifulSoup in python
 
 IMPORTING MODULE:
